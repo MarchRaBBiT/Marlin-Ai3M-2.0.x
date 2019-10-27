@@ -32,7 +32,7 @@
 
 L6470_Marlin L6470;
 
-#include "../stepper_indirection.h"
+#include "../stepper/indirection.h"
 #include "../../gcode/gcode.h"
 #include "../planner.h"
 

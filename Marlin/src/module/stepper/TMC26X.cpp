@@ -25,7 +25,7 @@
  * Stepper driver indirection for TMC26X drivers
  */
 
-#include "../inc/MarlinConfig.h"
+#include "../../inc/MarlinConfig.h"
 
 //
 // TMC26X Driver objects and inits
